@@ -7,7 +7,9 @@ This manual is for Linux, program is working on Windows too.
 
 You need PySide6:
 
-```pip install pyside6```
+```bash
+pip install pyside6
+```
 
 ### With Git
 
