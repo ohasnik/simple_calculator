@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+# (c) 2024 Ondřej Hasník
+
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton, QGridLayout, QVBoxLayout, QWidget, QLineEdit
 from PySide6.QtCore import Qt
 import math
