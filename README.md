@@ -13,18 +13,32 @@ pip install pyside6
 
 ### With Git
 
+```bash
 git clone https://github.com/ondrejhasnik/simple_calculator.git
+```
 
+```bash
 cd simple_calculator
+```
 
+```bash
 python main.py
+```
 
 ### With wget
 
+```bash
 wget wget https://github.com/ondrejhasnik/simple_calculator/archive/refs/heads/main.zip
+```
 
+```bash
 unzip main.zip
+```
 
+```bash
 cd simple_calculator-main
+```
 
+```bash
 python main.py
+```
